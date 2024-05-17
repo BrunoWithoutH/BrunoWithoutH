@@ -6,5 +6,5 @@
 ## 🌐Minhas redes Sociais / My Socials
 [![Instagram](https://img.shields.io/badge/instagram-white?style=flat&logo=instagram&logoColor=white&color=%23E4405F)](https://instagram.com/brunowithouth) [![X](https://img.shields.io/badge/Twitter-white?style=flat&logo=x&logoColor=white&color=black)](https://x.com/brunowithouth)
 ## 📧Contato
-[✉️E-mail para contato](mailto:pinheirobrunoevaristo@gmail.com)\**
+[✉️E-mail para contato](mailto:pinheirobrunoevaristo@gmail.com)  
 [🟢WhatsApp](http://wa.me/+555599144311)
