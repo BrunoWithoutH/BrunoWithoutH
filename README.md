@@ -1,6 +1,15 @@
 # 💫 About Me:
-Hello, my name is Bruno Evaristo Pinheiro, I am currently studying IT at Instituto Federal Farroupilha - Campus Frederico Westphalen, I am in the second year of the course.<br>
-🔭 I’m currently working on a huge project, stay tuned<br>👯 I’m looking to collaborate on front-endprojetcs<br>🌱 I’m currently learning php
+Hello, my name is Bruno Evaristo Pinheiro, I am a computer technician by IFFar - Frederico Westphalen, I am in the second year of the course.
+<br>
+🔭 I’m currently working on a huge project, *stay tuned*
+<br>
+👯 I’m looking to collaborate on front-end projetcs
+<br>
+🌱 I’m currently learning php
+<br>
+✉️ Free To Contact
+<br>
+📃 My [curriculum](https://docs.google.com/document/d/1qvvZgPp32eadik7EUOeSL4Hp5x7ahvfHC2YZ9PDbgFU/edit?usp=sharing)
 
 
 ## 🌐 Socials:
