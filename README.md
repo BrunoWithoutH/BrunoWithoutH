@@ -9,7 +9,7 @@ Hello, my name is Bruno Evaristo Pinheiro, I am a computer technician by IFFar -
 <br>
 ✉️ Free To Contact
 <br>
-📃 My [curriculum](https://docs.google.com/document/d/1qvvZgPp32eadik7EUOeSL4Hp5x7ahvfHC2YZ9PDbgFU/edit?usp=sharing)
+📃 My [curriculum](https://docs.google.com/document/d/1I7JsctbEaTP7FI1ggXQahLdysM4VveepCuXmOU4WHn0/edit?usp=sharing)
 
 
 ## 🌐 Socials:
