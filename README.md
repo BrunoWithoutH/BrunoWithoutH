@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, my name is Bruno Evaristo Pinheiro, I am a computer technician by IFFar - Frederico Westphalen, I am in the second year of the course.
+Hello, my name is Bruno Evaristo Pinheiro, I am a web developer and a computer technician by IFFar - Frederico Westphalen, I am in the second year of the course.
 <br>
 🔭 I’m currently working on a huge project, *stay tuned*
 <br>
