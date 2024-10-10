@@ -48,4 +48,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoWithoutH&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=BrunoWithoutH&icon=5&color=573189)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=BrunoWithoutH&icon=5&color=23573189)](https://visitcount.itsvg.in)
