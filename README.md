@@ -33,7 +33,7 @@
 
 ## Hard Skills:
 - **Front-end:**  
-![HTML5](https://img.shields.io/badge/html5-%23#4d1c54.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%234d1c54.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
 - **Back-end:**  
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
