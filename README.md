@@ -39,7 +39,7 @@
 ![PHP](https://img.shields.io/badge/php-%23573189.svg?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-573189.svg?style=for-the-badge&logo=mysql&logoColor=white)
 - **Other:**  
-![Python](https://img.shields.io/badge/python-573189?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Python](https://img.shields.io/badge/python-573189?style=for-the-badge&logo=python&logoColor=white) 
 ![Blender](https://img.shields.io/badge/blender-%23573189.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 # 📊 GitHub Stats:
