@@ -31,7 +31,7 @@
 - 🤝 Teamwork
 - 🦥 Commitment
 
-## Hard Skills:
+## 💥 Hard Skills:
 - **Front-end:**  
 ![HTML5](https://img.shields.io/badge/html5-%23573189.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%23573189.svg?style=for-the-badge&logo=css3&logoColor=white)  
