@@ -1,14 +1,14 @@
 # 🦔 Quem sou eu / About Me:
 
 **Português:**  
-👋 Olá, sou Bruno Evaristo Pinheiro, desenvolvedor web em treinamento e técnico em informática no IFFar - Frederico Westphalen.  
+👋 Olá, sou Bruno Evaristo Pinheiro, desenvolvedor web em treinamento e técnico em informática no IFFar - Frederico Westphalen. I am at the second year of the course.  
 🔭 Atualmente envolvido em um grande projeto – fique atento!  
 👥 Busco oportunidades em projetos front-end  
 🌱 Aprendendo PHP no momento  
 📃 [Meu Currículo](https://docs.google.com/document/d/1I7JsctbEaTP7FI1ggXQahLdysM4VveepCuXmOU4WHn0/edit?usp=sharing)
 
 **English:**  
-👋 Hi, I’m Bruno Evaristo Pinheiro, a web developer in training and a computer technician at IFFar - Frederico Westphalen.  
+👋 Hi, I’m Bruno Evaristo Pinheiro, a web developer in training and a computer technician at IFFar - Frederico Westphalen. Estou no segundo ano do curso.  
 🔭 Currently working on a big project – stay tuned!  
 👥 Looking for front-end collaboration opportunities  
 🌱 Currently learning PHP  
