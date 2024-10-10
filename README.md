@@ -1,16 +1,20 @@
-# 💫 About Me:
-Hello, my name is Bruno Evaristo Pinheiro, I am a web developer and a computer technician by IFFar - Frederico Westphalen, I am in the second year of the course.
-<br>
-🔭 I’m currently working on a huge project, *stay tuned*
-<br>
-👯 I’m looking to collaborate on front-end projetcs
-<br>
-🌱 I’m currently learning php
-<br>
-✉️ Free To Contact
-<br>
-📃 My [curriculum](https://docs.google.com/document/d/1I7JsctbEaTP7FI1ggXQahLdysM4VveepCuXmOU4WHn0/edit?usp=sharing)
+🦔 Sobre mim / About Me:
+🇧🇷 / 🇵🇹  
+👋 Olá, meu nome é Bruno Evaristo Pinheiro, eu sou um desenvolvedor web em treinamento e técnico em informática por IFFar - Frederico Westphalen.  
+🔭 Atualmente estou trabalhando em um projeto grande, **fique ligado**  
+👥 Estou a procura de projetos front-end para colaborar  
+🌱 No momento, estou aprendendo php  
+📃[Curriculum Vitae](https://docs.google.com/document/d/1I7JsctbEaTP7FI1ggXQahLdysM4VveepCuXmOU4WHn0/edit?usp=sharing)
 
+🇬🇧 / 🇺🇸  
+👋 Hello, my name is Bruno Evaristo Pinheiro, I am a web developer and a computer technician by IFFar - Frederico Westphalen, I am in the second year of the course.  
+🔭 I’m currently working on a huge project, **stay tuned**  
+👥 I’m looking to collaborate on front-end projetcs  
+🌱 I’m currently learning php  
+📃[Curriculum Vitae](https://docs.google.com/document/d/1I7JsctbEaTP7FI1ggXQahLdysM4VveepCuXmOU4WHn0/edit?usp=sharing)
+
+## ✉️ Feel free to contact  
+📩[E-mail](mailto:pinheirobrunoevaristo@gmail.com)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/brunowithouth) 
