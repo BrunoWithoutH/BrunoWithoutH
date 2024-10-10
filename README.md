@@ -26,10 +26,18 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@brunowithoutH) 
 
 # 💻 Tech Stack:
-- **Front-end:**
+## 🌟 Soft Skills:
+- 📢 Communication
+- 🔍 Problem Solving
+- 📅 Organization
+- 🤝 Teamwork
+- 🦥 Commitment
+
+## Hard Skills:
+- **Front-end:**  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-- **Back-end:**
+- **Back-end:**  
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 - **Other:**  
