@@ -18,7 +18,7 @@
 📩[E-mail](mailto:pinheirobrunoevaristo@gmail.com)
 
 ## 🌐 Redes sociais / Socials:
-- [![Instagram](https://img.shields.io/badge/Instagram-%23a08cf1.svg?logo=Instagram&logoColor=white)](https://instagram.com/brunowithouth) 
+- [![Instagram](https://img.shields.io/badge/Instagram-%23573189.svg?logo=Instagram&logoColor=white)](https://instagram.com/brunowithouth) 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23a08cf1.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/BrunoSemH)
 - [![Reddit](https://img.shields.io/badge/Reddit-%23a08cf1.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/BrunoSemH) 
 - [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-a08cf1?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24584496) 
