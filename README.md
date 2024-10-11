@@ -2,7 +2,7 @@
 
 **Português:**  
 👋 Olá, sou Bruno Evaristo Pinheiro, desenvolvedor web em treinamento e técnico em informática no IFFar - Frederico Westphalen. Estou no segundo ano do curso.  
-🔭 Atualmente envolvido em um grande projeto – fique atento!  
+🔭 Atualmente envolvido em um grande projeto – fique ligado!  
 👥 Busco oportunidades em projetos front-end  
 🌱 Aprendendo PHP no momento  
 📃 [Meu Currículo](https://docs.google.com/document/d/1I7JsctbEaTP7FI1ggXQahLdysM4VveepCuXmOU4WHn0/edit?usp=sharing)
