@@ -1,23 +1,13 @@
-# 🦔 Quem sou eu / About Me:
-
-**Português:**  
-👋 Olá, sou Bruno Evaristo Pinheiro, desenvolvedor web em treinamento e técnico em informática no IFFar - Frederico Westphalen. Estou no segundo ano do curso.  
-🔭 Atualmente envolvido em um grande projeto – fique ligado!  
-👥 Busco oportunidades em projetos front-end  
-🌱 Aprendendo PHP no momento  
+# 🦔 Quem sou eu:    
+👋 Olá, sou Bruno Evaristo Pinheiro, Engenheiro de Dados em treinamento e técnico em informática pelo IFFar - Frederico Westphalen. Estou no último ano do curso.  
+🔭 Atualmente envolvido em um grande projeto – fique ligado!    
+🌱 Aprendendo Python para Data Engineering no momento  
 📃 [Meu Currículo](https://docs.google.com/document/d/1I7JsctbEaTP7FI1ggXQahLdysM4VveepCuXmOU4WHn0/edit?usp=sharing)
 
-**English:**  
-👋 Hi, I’m Bruno Evaristo Pinheiro, a web developer in training and a computer technician at IFFar - Frederico Westphalen. I am at the second year of the course.  
-🔭 Currently working on a big project – stay tuned!  
-👥 Looking for front-end collaboration opportunities  
-🌱 Currently learning PHP  
-📃 [My Resume](https://docs.google.com/document/d/1I7JsctbEaTP7FI1ggXQahLdysM4VveepCuXmOU4WHn0/edit?usp=sharing)
-
-## ✉️ Livre para contato / Feel free to contact:  
+## ✉️ Livre para contato:
 📩[E-mail](mailto:pinheirobrunoevaristo@gmail.com)
 
-## 🌐 Redes sociais / Socials:
+## 🌐 Redes sociais:  
 - [![Instagram](https://img.shields.io/badge/Instagram-%23573189.svg?logo=Instagram&logoColor=white)](https://instagram.com/brunowithouth) 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23573189.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/BrunoSemH)
 - [![Reddit](https://img.shields.io/badge/Reddit-%23573189.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/BrunoSemH) 
