@@ -2,7 +2,7 @@
 👋 Olá, sou Bruno Evaristo Pinheiro, Engenheiro de Dados em treinamento e técnico em informática pelo IFFar - Frederico Westphalen. Estou no último ano do curso.  
 🔭 Atualmente envolvido em um grande projeto – fique ligado!    
 🌱 Aprendendo Python para Data Engineering no momento  
-📃 [Meu Currículo](https://docs.google.com/document/d/1I7JsctbEaTP7FI1ggXQahLdysM4VveepCuXmOU4WHn0/edit?usp=sharing)
+📃 [Meu Currículo](https://docs.google.com/document/d/1lwHIcnpI7MYjOMUDePtJNmNcgwnRi3mCr1eq2YrxV7o/edit?usp=sharing)
 
 ## ✉️ Livre para contato:
 📩[E-mail](mailto:pinheirobrunoevaristo@gmail.com)
