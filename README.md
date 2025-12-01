@@ -1,36 +1,26 @@
-# 🦔 Quem sou eu:    
-👋 Olá, sou Bruno Evaristo Pinheiro, Engenheiro de Dados em treinamento e técnico em informática pelo IFFar - Frederico Westphalen. Estou no último ano do curso.  
-🔭 Atualmente envolvido em um grande projeto – fique ligado!    
-🌱 Aprendendo Python para Data Engineering no momento  
-📃 [Meu Currículo](https://docs.google.com/document/d/1lwHIcnpI7MYjOMUDePtJNmNcgwnRi3mCr1eq2YrxV7o/edit?usp=sharing)
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-## ✉️ Livre para contato:
-📩[E-mail](mailto:pinheirobrunoevaristo@gmail.com)
+### 🦔 Quem sou eu:
 
-## 🌐 Redes sociais:  
-- [![Instagram](https://img.shields.io/badge/Instagram-%23573189.svg?logo=Instagram&logoColor=white)](https://instagram.com/brunowithouth) 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23573189.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/BrunoSemH)
-- [![Reddit](https://img.shields.io/badge/Reddit-%23573189.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/BrunoSemH) 
-- [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-573189?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24584496) 
+👋 Olá, sou Bruno Evaristo Pinheiro, Desenvolvedor Back-End iniciante.  
+👨🏻‍💻 Técnico em informática pelo IFFar - Frederico Westphalen. Estou no terceiro e último ano do curso.    
+🌱 Em busca de projetos para .... ou traduzir.  
+📃 [Currículo](https://docs.google.com/document/d/1lwHIcnpI7MYjOMUDePtJNmNcgwnRi3mCr1eq2YrxV7o/edit?usp=sharing)
 
-# 💻 Tech Stack:
-## 🌟 Soft Skills:
-- 📢 Communication
-- 🔍 Problem Solving
-- 📅 Organization
-- 🤝 Teamwork
-- 🦥 Commitment
+### 📲 Contato: ⤵️
+📩 [pinheirobrunoevaristo@gmail.com](mailto:pinheirobrunoevaristo@gmail.com)
 
-## 💥 Hard Skills:
-- **Front-end:**  
-![HTML5](https://img.shields.io/badge/html5-%23573189.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%23573189.svg?style=for-the-badge&logo=css3&logoColor=white)  
+### 🌐 Redes sociais:  
+[![Instagram](https://img.shields.io/badge/Instagram-%23573189.svg?logo=Instagram&logoColor=white)](https://instagram.com/brunowithouth)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23573189.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/BrunoSemH)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-573189?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24584496) 
+
+### 💻 Stack:
+**Linguagens:**
 - **Back-end:**  
 ![PHP](https://img.shields.io/badge/php-%23573189.svg?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/python-%23573189.svg?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-573189.svg?style=for-the-badge&logo=mysql&logoColor=white)
-- **Other:**  
-![Python](https://img.shields.io/badge/python-573189?style=for-the-badge&logo=python&logoColor=white) 
-![Blender](https://img.shields.io/badge/blender-%23573189.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=BrunoWithoutH&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
