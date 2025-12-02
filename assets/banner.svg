@@ -5,22 +5,39 @@
    viewBox="0 0 1200 300"
    version="1.1"
    id="svg88"
+   sodipodi:docname="Sem título.svg"
+   inkscape:export-filename="banner.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview90"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     showgrid="false" />
   <defs
      id="defs34">
-
     <pattern
+       inkscape:collect="always"
        xlink:href="#grid"
-       id="pattern3736" />
+       id="pattern3792"
+       patternTransform="matrix(0.83498361,0,0,1,88.839936,-0.55225411)" />
     <linearGradient
        id="bg-grad"
        x1="0"
        y1="0"
        x2="600"
        y2="600"
-       gradientTransform="scale(2,0.5)"
+       gradientTransform="matrix(1.7329653,0,0,0.5,51.041096,-0.55225411)"
        gradientUnits="userSpaceOnUse">
       <stop
          offset="0%"
@@ -118,41 +135,45 @@
       </feMerge>
     </filter>
     <linearGradient
+       inkscape:collect="always"
        xlink:href="#accent-grad"
-       id="linearGradient3738"
-       x1="7.4420843"
-       y1="2015.5645"
-       x2="39.691116"
-       y2="2015.5645"
-       gradientTransform="scale(8.0622577,0.12403473)"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       xlink:href="#accent-grad"
-       id="linearGradient3740"
+       id="linearGradient4776"
        x1="610.47473"
        y1="411.64822"
        x2="664.1955"
        y2="411.64822"
-       gradientTransform="scale(1.6870485,0.59275119)"
+       gradientTransform="matrix(1.6870485,0,0,0.59275119,-148,0)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#accent-grad"
+       id="linearGradient4782"
+       x1="7.4420843"
+       y1="2015.5645"
+       x2="39.691116"
+       y2="2015.5645"
+       gradientTransform="matrix(8.0622577,0,0,0.12403473,38,0)"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <rect
-     width="1200"
+     width="1039.7792"
      height="300"
      fill="url(#bg-grad)"
      id="rect36"
-     x="0"
-     y="0"
-     style="fill:url(#bg-grad)" />
+     style="fill:url(#bg-grad);stroke-width:0.93085"
+     x="51.041092"
+     y="-0.55225414"
+     transform="skewY(0.05542146)" />
   <rect
-     x="0"
-     y="0"
-     width="1200"
+     x="88.839928"
+     y="-0.55225414"
+     width="1001.9804"
      height="300"
      fill="url(#grid)"
      opacity="0.45"
      id="rect38"
-     style="fill:url(#pattern3736)" />
+     style="fill:url(#pattern3792);stroke-width:0.913773"
+     transform="skewY(0.05542146)" />
   <circle
      cx="1040"
      cy="40"
@@ -178,7 +199,7 @@
      filter="url(#glow)"
      id="circle44" />
   <rect
-     x="60"
+     x="98"
      y="70"
      width="390"
      height="160"
@@ -190,7 +211,7 @@
      stroke-width="1"
      id="rect46" />
   <rect
-     x="60"
+     x="98"
      y="250"
      width="260"
      height="4"
@@ -198,9 +219,9 @@
      fill="url(#accent-grad)"
      opacity="0.9"
      id="rect48"
-     style="fill:url(#linearGradient3738)" />
+     style="fill:url(#linearGradient4782)" />
   <text
-     x="80"
+     x="118"
      y="125"
      fill="#f9fafb"
      font-family="system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', sans-serif"
@@ -208,7 +229,7 @@
      font-size="26px"
      id="text50">🦔 Bruno Evaristo Pinheiro</text>
   <text
-     x="80"
+     x="118"
      y="155"
      fill="#d1d5db"
      font-family="system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', sans-serif"
@@ -216,7 +237,7 @@
      font-size="18px"
      id="text52">Desenvolvedor Back-End iniciante</text>
   <text
-     x="80"
+     x="118"
      y="188"
      fill="#9ca3af"
      font-family="system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', sans-serif"
@@ -233,13 +254,14 @@
      stroke-width="1.2"
      filter="url(#shadow)"
      id="rect58"
-     style="fill:url(#terminal-grad)" />
+     style="fill:url(#terminal-grad)"
+     transform="matrix(0.81893957,0,0,1.0005687,94.059298,-0.08531091)" />
   <rect
-     x="520"
-     y="50"
-     width="620"
-     height="34"
-     rx="18"
+     x="519.9079"
+     y="49.943127"
+     width="507.74252"
+     height="34.019337"
+     rx="14.740912"
      fill="#0f172a"
      stroke="#1f2937"
      stroke-width="0.5"
@@ -247,21 +269,21 @@
   <circle
      cx="545"
      cy="67"
-     r="5"
      fill="#ef4444"
-     id="circle62" />
+     id="circle62"
+     r="5" />
   <circle
      cx="563"
      cy="67"
-     r="5"
      fill="#f59e0b"
-     id="circle64" />
+     id="circle64"
+     r="5" />
   <circle
      cx="581"
      cy="67"
-     r="5"
      fill="#10b981"
-     id="circle66" />
+     id="circle66"
+     r="5" />
   <text
      x="605"
      y="72"
@@ -312,23 +334,23 @@
      font-size="12px"
      id="text80">// github.com/BrunoWithoutH</text>
   <path
-     d="m 1030,245 q 50,5 90,30"
+     d="m 882,245 q 50,5 90,30"
      stroke="url(#accent-grad)"
      stroke-width="2"
      fill="none"
      opacity="0.8"
      id="path82"
-     style="stroke:url(#linearGradient3740)" />
+     style="stroke:url(#linearGradient4776)" />
   <circle
-     cx="1030"
+     cx="882"
      cy="245"
-     r="3"
      fill="#22d3ee"
-     id="circle84" />
+     id="circle84"
+     r="3" />
   <circle
-     cx="1120"
+     cx="972"
      cy="275"
-     r="3"
      fill="#a855f7"
-     id="circle86" />
+     id="circle86"
+     r="3" />
 </svg>
