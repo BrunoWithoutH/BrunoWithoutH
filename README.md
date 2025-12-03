@@ -15,11 +15,11 @@
   
 
 
-## ⚡ Sobre mim
-👨🏻‍💻 Técnico em Informática pelo IFFar – Frederico Westphalen (3º ano).  
-💻 Curto criar ferramentas open-source e resolver a parte do sistema que ninguém vê, mas todo mundo depende  
-🌱 Sempre aberto a colaborar em projetos  
-📩 Contato:  
+## ⚡ About:
+👨🏻‍💻 Computer Technician by Federal Institute of Farroupilha – Frederico Westphalen.  
+💻 I enjoy creating open-source tools and solving the part of the system that no one sees, but everyone depends on.  
+🌱 Always open to collaborating on projects.  
+📩 Contact: 
  [pinheirobrunoevaristo@gmail.com](mailto:pinheirobrunoevaristo@gmail.com)  
 
 ## 💾 Technologies:
