@@ -17,7 +17,7 @@
 
 ## ⚡ About:
 👨🏻‍💻 Computer Technician by Federal Institute of Farroupilha – Frederico Westphalen.  
-💻 I enjoy creating open-source tools and solving the part of the system that no one sees, but everyone depends on.  
+💻 Solving the part of the system that no one sees, but everyone depends on.  
 🌱 Always open to collaborating on projects.  
 📩 Contact: 
  [pinheirobrunoevaristo@gmail.com](mailto:pinheirobrunoevaristo@gmail.com)  
