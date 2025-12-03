@@ -241,14 +241,14 @@
      font-family="system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', sans-serif"
      font-weight="500"
      font-size="18px"
-     id="text52">Desenvolvedor Back-End iniciante</text>
+     id="text52">Beginner Back-End Developer</text>
   <text
      x="40.132919"
      y="188.46632"
      fill="#9ca3af"
      font-family="system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', sans-serif"
      font-size="13px"
-     id="text56">Criando ferramentas open-source para a comunidade dev</text>
+     id="text56">Creating open-source tools for the dev community</text>
   <rect
      x="520"
      y="50"
@@ -303,7 +303,7 @@
      fill="#4ade80"
      font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
      font-size="13px"
-     id="text70">$ php artisan generate:chimarrão and coffee</text>
+     id="text70">$ php artisan generate:chimarrão</text>
   <text
      x="459.13293"
      y="128.46632"
@@ -324,14 +324,14 @@
      fill="#67e8f9"
      font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
      font-size="13px"
-     id="text76">▸ focus: ferramentas, automação e back-end limpo</text>
+     id="text76">▸ focus: tools, automation and clean back-end</text>
   <text
      x="459.13293"
      y="206.46632"
      fill="#f97316"
      font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
      font-size="13px"
-     id="text78">✔ open-source • comunidade • aprendizado constante</text>
+     id="text78">✔ open-source • community • constant learning</text>
   <text
      x="459.13293"
      y="232.46632"
